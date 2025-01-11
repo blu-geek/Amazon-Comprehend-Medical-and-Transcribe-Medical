@@ -1,5 +1,4 @@
 
-# Project 8
 
 # Amazon-Comprehend-Medical-and-Transcribe-Medical
 
